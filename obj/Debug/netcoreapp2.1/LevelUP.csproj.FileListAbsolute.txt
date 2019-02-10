@@ -1,0 +1,10 @@
+C:\Users\Matthew\source\repos\LevelUP\LevelUP\bin\Debug\netcoreapp2.1\LevelUP.deps.json
+C:\Users\Matthew\source\repos\LevelUP\LevelUP\bin\Debug\netcoreapp2.1\LevelUP.runtimeconfig.json
+C:\Users\Matthew\source\repos\LevelUP\LevelUP\bin\Debug\netcoreapp2.1\LevelUP.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\LevelUP\LevelUP\bin\Debug\netcoreapp2.1\LevelUP.dll
+C:\Users\Matthew\source\repos\LevelUP\LevelUP\obj\Debug\netcoreapp2.1\LevelUP.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\LevelUP\LevelUP\obj\Debug\netcoreapp2.1\LevelUP.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\LevelUP\LevelUP\obj\Debug\netcoreapp2.1\LevelUP.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\LevelUP\LevelUP\bin\Debug\netcoreapp2.1\LevelUP.pdb
+C:\Users\Matthew\source\repos\LevelUP\LevelUP\obj\Debug\netcoreapp2.1\LevelUP.dll
+C:\Users\Matthew\source\repos\LevelUP\LevelUP\obj\Debug\netcoreapp2.1\LevelUP.pdb
